@@ -1,0 +1,32 @@
+.background-image{
+	background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url('../../Assects/All-Types-Of-Images/Background-Images/csm_gefco-header-people-working-cover_c333df408d.jpg');
+	background-size: cover;
+	min-height: 80vh;
+}
+.border-darken{
+	padding: 37px;
+	background: #fff;
+}
+.column {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+.row-one {
+	padding-top: 13px;
+}
+form .field {
+	margin: auto;
+	max-width: 740px;
+	input{
+			box-shadow: -4px -4px 10px rgba(255,255,255,1),
+			inset 4px 4px 10px rgba(0,0,0,0.05),
+			inset -4px -4px 10px rgba(0, 0, 0, 0.1)
+	}
+	::placeholder{
+			color: #cccccc;
+	}
+}
+button.kep-login-facebook.metro {
+    height: 50px;
+    font-size: 14px;
+}
