@@ -11,7 +11,7 @@
     "bulma": "^0.8.1",
     "elem": "0.0.60",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-facebook-login": "^4.1.1",
